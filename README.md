@@ -12,9 +12,13 @@ This project demonstrates how to create a data pipeline using Apache Airflow to 
 - **Data Ordering:** Order the countries by their total medal count.
 - **Notification:** Send the ordered data to a Line chat using Line Notify.
 
+## Output
+![image](https://github.com/user-attachments/assets/3adaf2da-34a8-4dab-824d-22691efe27e3)
+
 ## Components
 - **Apache Airflow:** Orchestrates the data extraction, processing, and notification tasks.
 - **Line Notify:** Sends the final ordered medal data to a specified Line chat.
+
 
 ## Getting Started
 
